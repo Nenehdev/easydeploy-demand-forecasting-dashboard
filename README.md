@@ -1,6 +1,8 @@
 # ⚡ EasyDeploy Demand Forecasting Dashboard
 
 ## Overview
+![Performance Overview](dashboard_page1.png)
+![Error & Dimension Analysis](dashboard_page2.png)
 This is an interactive demand forecasting dashboard built in Microsoft 
 Power BI using real data processed through the EasyDeploy AI platform. 
 The dashboard visualizes model performance, forecast accuracy, and demand 
